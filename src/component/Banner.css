@@ -1,0 +1,32 @@
+.banner{
+    width: 1440px;
+height: 440px;
+left: 0px;
+top: 72px;
+
+background: url("../images/Rectangle\ 2.png");
+}
+.banner-title{
+    position: absolute;
+width: 378px;
+height: 47px;
+left: 200px;
+top: 358px;
+
+font-family: 'IBM Plex Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 47px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+.sub-title{
+    font-family: 'IBM Plex Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 23px;
+}

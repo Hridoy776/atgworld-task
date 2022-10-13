@@ -26,3 +26,53 @@ line-height: 18px;
 
 color: #5C5C5C;
 }
+
+.sign-up{
+    width: 183px;
+height: 21px;
+margin: auto 0;
+
+font-family: 'IBM Plex Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 21px;
+/* identical to box height */
+
+text-align: right;
+
+color: #2E2E2E;
+}
+span{
+    color:rgba(47, 108, 229, 1);
+}
+
+.u-info{
+    width: 170px;
+}
+
+.pic{
+    width: 36px;
+height: 36px;
+
+
+
+border-radius: 21px;
+}
+
+.user{
+    width: 104px;
+height: 19px;
+left: 1110px;
+top: 27px;
+
+font-family: 'IBM Plex Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 18px;
+/* identical to box height */
+
+
+color: #000000;
+}

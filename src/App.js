@@ -1,5 +1,5 @@
 
-import {Button} from 'react-bootstrap';
+
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Home from './pages/Home';
 function App() {

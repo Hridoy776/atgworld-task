@@ -1,0 +1,15 @@
+.card-img{
+    width: 692px;
+height: 220px;
+}
+
+.card{
+    width: 692px;
+height: 472px;
+left: 200px;
+margin-bottom: 16px;
+
+background: #FFFFFF;
+border: 1px solid #E0E0E0;
+border-radius: 4px;
+}
